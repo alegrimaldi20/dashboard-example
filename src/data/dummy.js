@@ -586,22 +586,22 @@ export const chatData = [
     image:
       avatar3,
     message: 'New message received',
-    desc: 'Salma sent you new message',
-    time: '11:56 AM',
+    desc: 'New message',
+    time: '11:00 AM',
   },
   {
     image:
       avatar4,
     message: 'New Payment received',
-    desc: 'Check your earnings',
-    time: '4:39 AM',
+    desc: 'Check your email',
+    time: '4:39 PM',
   },
   {
     image:
       avatar,
     message: 'Drake completed tasks',
     desc: 'Gods Plan',
-    time: '1:12 AM',
+    time: '1:12 PM',
   },
 ];
 
