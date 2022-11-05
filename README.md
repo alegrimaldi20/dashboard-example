@@ -1,4 +1,4 @@
-# Dahsbord for Ventu
+# Example of Dashboard
 
 ``npm install``
 
