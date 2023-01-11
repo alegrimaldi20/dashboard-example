@@ -1,4 +1,4 @@
-# Example of Dashboard
+# Example of dashboard
 
 ``npm install``
 
